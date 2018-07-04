@@ -46,7 +46,7 @@ The public telephone network to which telephones, ACDs and PBXs are connected, a
   - Finds out about the activities by message from the switch via the CTI link and translating them into a standard format and distributing these translated messages to client program likes the Agent Desktop
   
 ### Screen Pop
-  - T-Server relates information to an agent's service application through the notification from CTI system
+T-Server relates information to an agent's service application through the notification from CTI system
 
 ### Trunk
 A physical link (wire, optical line and so forth) between telephone exchanges (switches)
